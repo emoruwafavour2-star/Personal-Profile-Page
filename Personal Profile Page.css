@@ -101,7 +101,7 @@ button{
     
     border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 4px 12px;
+    box-shadow: 0 4px 12px #f5b642;
     transition: 0.25s ease, box-shadow o.25s ease;
     display: flex;
     flex-direction: column;
