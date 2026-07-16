@@ -183,24 +183,3 @@ button{
     font-size: 18px;
     font-weight: 500;
 }
-/* ===========================
-   MOBILE RESPONSIVE DESIGN
-   =========================== */
-@media screen and (max-width: 768px) {
-
-    /* Prevent horizontal scrolling */
-    body{
-        overflow-x: hidden;
-    }
-
-    /* Navigation */
-    nav{
-        padding: 10px;
-    }
-
-    nav a{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 10px;
-    }
