@@ -183,3 +183,8 @@ button{
     font-size: 18px;
     font-weight: 500;
 }
+.connect-container {
+  border-left: 4px solid #ffa500;
+  padding-left: 15px;
+  margin-top: 25px;
+}
